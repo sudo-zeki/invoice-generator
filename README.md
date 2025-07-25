@@ -2,7 +2,7 @@
 
 This project is a simple but powerful **invoice generator** built in **Python**. It allows local business owners, freelancers, and service providers in **Ethiopia** (or anywhere) to create **clean, professional PDF invoices** with zero hassle.
 
-Invoices are automatically saved and organized into **monthly folders**. You can customize the business name, phone number, VAT rate, and currency. No internet required, no fancy setup - just Python and a terminal.
+Invoices are automatically saved and organized into **monthly folders**. You can customize the business name, phone number, logo, VAT rate, and currency. No internet required, no fancy setup - just Python and a terminal.
 
 ---
 
